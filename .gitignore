@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Credenciales y sesiones sensibles (NUNCA SUBIR)
+REDACTED_COOKIES
+*.cookie
+.env
+.env.*
+!.env.example
+
+# Logs y temporales
+*.log
+.DS_Store
