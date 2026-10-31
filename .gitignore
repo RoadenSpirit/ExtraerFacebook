@@ -3,7 +3,7 @@ node_modules/
 package-lock.json
 
 # Credenciales y sesiones sensibles (NUNCA SUBIR)
-REDACTED_COOKIES
+cookies.json
 *.cookie
 .env
 .env.*
